@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gerenciador.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Gerenciador de Estoques</h1>
+
+        <div id="produtonovo">
+             <h2 class="um">Registrar Novo produto:</h2>
+            <h3 class="dois">Nome do produto:</h3>
+        <input id="ReN" type="text" placeholder="Digite aqui">
+         <h3 class="tres">Quantidade do produto:</h3>
+        <input id="ReNu" type="number" placeholder="Entradas" value="number">
+        <button onclick="adicionar()">Adicionar</button>
+        </div>
+
+        <div id="entradas">
+            <h2>Entrada</h2>
+            <h3>Nome do produto:</h3>
+            <input id="NPE" type="text" placeholder="Digite aqui">
+            <h3> Quantidade do produto:</h3>
+            <input id="NUPE" type="number" placeholder="Entradas" value="number">
+            <button onclick="Entrada()">Adicionar</button>
+        </div>
+
+    <div id="saida">
+        <h2>Saida</h2>
+        <h3>Nome do produto:</h3>
+        <input id="NPS" type="text" placeholder="Digite aqui">
+         <h3>Quantidade do produto:</h3>
+        <input id="NUPS" type="number" placeholder="Entradas">
+        <button onclick="saida()">Adicionar</button>
+    </div>
+    <h2 id="Produtos">Produtos EXISTENTES</h2>
+    <div class="criados">
+    <table id="table">
+    </div>    
+
+    </table>
+
+
+
+
+
+    <script src="gerenciador.js"></script>
+</body>
+</html>

@@ -1,0 +1,358 @@
+@media (max-width: 1440px) {
+body{
+  background-color: grey;
+}
+
+h1{
+  text-align: center;
+  background-color: white;
+  margin-top: 0px;
+}
+.um, .dois, .tres{
+  color: black
+}
+
+#produtonovo{
+  background-color: rgb(190, 189, 189);
+  width: 300px;
+  text-align: center;
+  margin-left: 3%;
+  padding-bottom: 3%;  
+}
+
+#entradas{
+  background-color: rgb(6, 218, 6);
+  width: 300px;
+  text-align: center;
+  margin-top: -17.7%;
+  margin-left: 38%;
+  padding-bottom: 3%;  
+}
+
+#saida{
+  background-color: red;
+  width: 300px;
+  text-align: center;
+  margin-left: 70%;
+  margin-top: -17.8%;
+  padding-bottom: 3%;  
+}
+
+#Produtos{
+  background-color: rgb(255, 255, 255);
+  width: 300px;
+  padding-top: 15px;
+  height: 2px;
+  text-align: center;
+  margin-left: 37%;
+  padding-bottom: 3%;  
+}
+
+.criados{
+  margin-left: 20%;
+background-color: white;
+width: 50%;
+}
+}
+
+@media (max-width: 1440px) {
+  body{
+    background-color: grey;
+  }
+  
+  h1{
+    text-align: center;
+    background-color: white;
+    margin-top: 0px;
+  }
+  .um, .dois, .tres{
+    color: black
+  }
+  
+  #produtonovo{
+    background-color: rgb(190, 189, 189);
+    width: 300px;
+    text-align: center;
+    margin-left: 3%;
+    padding-bottom: 3%;  
+  }
+  
+  #entradas{
+    background-color: rgb(6, 218, 6);
+    width: 300px;
+    text-align: center;
+    margin-top: -17.7%;
+    margin-left: 38%;
+    padding-bottom: 3%;  
+  }
+  
+  #saida{
+    background-color: red;
+    width: 300px;
+    text-align: center;
+    margin-left: 70%;
+    margin-top: -17.8%;
+    padding-bottom: 3%;  
+  }
+  
+  #Produtos{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    padding-top: 15px;
+    height: 2px;
+    text-align: center;
+    margin-left: 37%;
+    padding-bottom: 3%;  
+  }
+  
+  .criados{
+    margin-left: 20%;
+  background-color: white;
+  width: 50%;
+  }
+  }
+
+  @media (max-width: 1440px) {
+    body{
+      background-color: grey;
+    }
+    
+    h1{
+      text-align: center;
+      background-color: white;
+      margin-top: 0px;
+    }
+    .um, .dois, .tres{
+      color: black
+    }
+    
+    #produtonovo{
+      background-color: rgb(190, 189, 189);
+      width: 300px;
+      text-align: center;
+      margin-left: 3%;
+      padding-bottom: 3%;  
+    }
+    
+    #entradas{
+      background-color: rgb(6, 218, 6);
+      width: 300px;
+      text-align: center;
+      margin-top: -17.7%;
+      margin-left: 38%;
+      padding-bottom: 3%;  
+    }
+    
+    #saida{
+      background-color: red;
+      width: 300px;
+      text-align: center;
+      margin-left: 70%;
+      margin-top: -17.8%;
+      padding-bottom: 3%;  
+    }
+    
+    #Produtos{
+      background-color: rgb(255, 255, 255);
+      width: 300px;
+      padding-top: 15px;
+      height: 2px;
+      text-align: center;
+      margin-left: 37%;
+      padding-bottom: 3%;  
+    }
+    
+    .criados{
+      margin-left: 20%;
+    background-color: white;
+    width: 50%;
+    }
+    }
+
+
+    
+    @media (max-width: 1920px) {
+      body{
+        background-color: grey;
+      }
+      
+      h1{
+        text-align: center;
+        background-color: white;
+        margin-top: 0px;
+      }
+      .um, .dois, .tres{
+        color: black
+      }
+      
+      #produtonovo{
+        background-color: rgb(190, 189, 189);
+        width: 300px;
+        text-align: center;
+        margin-left: 3%;
+        padding-bottom: 3%;  
+      }
+      
+      #entradas{
+        background-color: rgb(6, 218, 6);
+        width: 300px;
+        text-align: center;
+        margin-top: -14%;
+        margin-left: 38%;
+        padding-bottom: 3%;  
+      }
+      
+      #saida{
+        background-color: red;
+        width: 300px;
+        text-align: center;
+        margin-left: 70%;
+        margin-top: -14%;
+        padding-bottom: 3%;  
+      }
+      
+      #Produtos{
+        background-color: rgb(255, 255, 255);
+        width: 300px;
+        padding-top: 15px;
+        height: 2px;
+        text-align: center;
+        margin-left: 37%;
+        padding-bottom: 3%;  
+      }
+      
+      .criados{
+        margin-left: 20%;
+      background-color: white;
+      width: 50%;
+      }
+      }
+  
+
+      @media (max-width: 1002px) {
+        body{
+          background-color: grey;
+        }
+        
+        h1{
+          text-align: center;
+          background-color: white;
+          margin-top: 0px;
+        }
+        .um, .dois, .tres{
+          color: black
+        }
+        
+        #produtonovo{
+          background-color: rgb(190, 189, 189);
+          width: 200px;
+          text-align: center;
+          margin-left: 3%;
+          padding-bottom: 3%;  
+        }
+        
+        #entradas{
+          background-color: rgb(6, 218, 6);
+          width: 200px;
+          text-align: center;
+          margin-top: -28%;
+          margin-left: 38%;
+          padding-bottom: 3%;  
+        }
+        
+        #saida{
+          background-color: red;
+          width: 200px;
+          text-align: center;
+          margin-left: 70%;
+          margin-top: -27%;
+          padding-bottom: 3%;  
+        }
+        
+        #Produtos{
+          background-color: rgb(255, 255, 255);
+          width: 300px;
+          padding-top: 15px;
+          height: 2px;
+          text-align: center;
+          margin-left: 37%;
+          padding-bottom: 3%;  
+        }
+        
+        .criados{
+          margin-left: 20%;
+        background-color: white;
+        width: 50%;
+        }
+        }
+      
+        @media (max-width: 710px) {
+          body{
+            background-color: grey;
+          }
+          
+          h1{
+            text-align: center;
+            background-color: white;
+            margin-top: 0px;
+          }
+          .um, .dois, .tres{
+            color: black
+          }
+          
+          #produtonovo{
+            background-color: rgb(190, 189, 189);
+            width: 150px;
+            text-align: center;
+            margin-left: 3%;
+            padding-bottom: 3%;  
+          }
+          
+          #entradas{
+            background-color: rgb(6, 218, 6);
+            width: 150px;
+            text-align: center;
+            margin-top: -42%;
+            margin-left: 38%;
+            padding-bottom: 3%;  
+          }
+          
+          #saida{
+            background-color: red;
+            width: 150px;
+            text-align: center;
+            margin-left: 70%;
+            margin-top: -40%;
+            padding-bottom: 3%;  
+          }
+          
+          #Produtos{
+            background-color: rgb(255, 255, 255);
+            width: 300px;
+            padding-top: 15px;
+            height: 2px;
+            text-align: center;
+            margin-left: 37%;
+            padding-bottom: 45px;  
+          }
+          
+          .criados{
+            margin-left: 20%;
+          background-color: white;
+          width: 50%;
+          }
+          input {
+            width: 130px; /* Defina o tamanho desejado aqui */
+          
+          }
+  
+          }
+        
+          
+  
+
+
+
+
+
+
